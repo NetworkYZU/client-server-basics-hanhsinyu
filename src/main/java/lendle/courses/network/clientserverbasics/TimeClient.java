@@ -26,7 +26,7 @@ public class TimeClient {
         /////////////////////////////////////////////////////////////
         
         StringBuilder builder=new StringBuilder();
-        InputStreamReader reader=new InputStreamReader(input,"big5");
+        InputStreamReader reader=new InputStreamReader(input, "big5");
         for(int c=reader.read(); c!=-1; c=reader.read()){
             builder.append((char)c);
         }
