@@ -9,7 +9,7 @@ import java.net.Socket;
 
 /**
  *
- * @author lendle
+ * @author hanhsinyu
  */
 public class PortScanner {
 

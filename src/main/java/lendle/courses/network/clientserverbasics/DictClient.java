@@ -15,7 +15,7 @@ import java.net.Socket;
 
 /**
  *
- * @author lendle
+ * @author 韓行禹
  */
 public class DictClient {
 
